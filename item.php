@@ -1,4 +1,13 @@
-<?php if($_GET['sku']=="130701"){ ?>
+<?php 
+/*
+ 
+ Test data
+ Rev 1.0
+ 
+*/
+
+
+if($_GET['sku']=="130701"){ ?>
 {"item":{"name":"Agression","sku":"130701",
 "price":299,
 "description":"100% cotton. Color white and gray shades. Eco friendly material.",
